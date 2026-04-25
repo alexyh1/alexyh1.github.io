@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-04-25 16:44:00-0400
+date: 2026-04-25 17:06:00-0400
 inline: true
 related_posts: false
 ---
 
-TBA
+I am now an Associate Member (Student) of the [Statistical Society of Canada](https://ssc.ca/en).
