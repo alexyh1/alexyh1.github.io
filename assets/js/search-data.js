@@ -59,8 +59,8 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-tba",
-          title: 'TBA',
+      },{id: "news-i-am-now-an-associate-member-student-of-the-statistical-society-of-canada",
+          title: 'I am now an Associate Member (Student) of the Statistical Society of Canada....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
