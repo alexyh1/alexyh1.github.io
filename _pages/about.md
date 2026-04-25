@@ -33,5 +33,5 @@ My current research interest lies in Biostatistics and Optimal Transport with ap
 
 I was fortunate to be a Summer Undergraduate Data Sciences (SUDS) 2025 Scholar at the UofT Data Sciences Institute under the supervision of Professor Elizabeth Dhuey. In Summer 2024 I was a research assistant for Professors Daniel Gregory and Andrei Swidinsky at the UofT Department of Earth Sciences. I will be joining Professor Jane Z Wang at the University of British Columbia's Department of Electrical and Computer Engineering for Summer 2026 as a post-undergraduate researcher in signal processing, medical imaging and Bayesian inference. 
 
-You can reach me at [Email me](mailto:alexander.he@mail.utoronto.ca).
+You can reach me at [alexander.he@mail.utoronto.ca](mailto:alexander.he@mail.utoronto.ca).
 
