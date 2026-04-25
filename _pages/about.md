@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. University of Toronto, Department of Statistical Sciences.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 University of Toronto</p>
+    <p>University of Toronto</p>
     <p>Department of Statistical Sciences</p>
     <p>700 University Ave, Toronto, ON, M7A 2S4</p>
 
