@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [University of Toronto, Department of Statistical Sciences](https://www.statistics.utoronto.ca/).
+subtitle: University of Toronto, Department of Statistical Sciences.
 
 profile:
   align: right
