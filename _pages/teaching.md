@@ -5,5 +5,5 @@ title: teaching
 description: TBA
 nav: true
 nav_order: 6
-calendar: true
+calendar: false
 ---
