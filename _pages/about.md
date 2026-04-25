@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. University of Toronto, Department of Statistical Sciences.
+subtitle: University of Toronto, Department of Statistical Sciences.
 
 profile:
   align: right
