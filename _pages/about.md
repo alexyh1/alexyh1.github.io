@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. University of Toronto, Department of Sta
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_8065.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>University of Toronto</p>
