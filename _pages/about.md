@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my website! I am currently in my last year of my undergraduate studies pursuing two Specialist programs in Economics and Mathematics (Joint-program) and Statistics at the University of Toronto. In Fall 2026, I will be starting the MSc Statistics program at the University of Toronto under the supervision of (Professor Ting-Kam Leonard Wong)[https://tkl-wong.github.io/]. 
+Welcome to my website! I am currently in my last year of my undergraduate studies pursuing two Specialist programs in Economics and Mathematics (Joint-program) and Statistics at the University of Toronto. In Fall 2026, I will be starting the MSc Statistics program at the University of Toronto under the supervision of [Professor Ting-Kam Leonard Wong](https://tkl-wong.github.io/). 
 
 My current research interest lies in Biostatistics and Optimal Transport with applications to Statistical Genetics, which will be the focus of my research project course as part of my graduate studies. 
 
