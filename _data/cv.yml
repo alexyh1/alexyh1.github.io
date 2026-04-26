@@ -17,7 +17,7 @@ cv:
         studyType: Honours Bachelor of Science
         start_date: 2022
         end_date: 2026
-        GPA: "3.72/4.00"
+        score: "3.72/4.00"
         courses: "Relevant Coursework: Real analysis, topology, probability, nonlinear optimization, machine learning, partial differential equations, mathematical statistics, stochastic processes, time series analysis"
         
     Experience:
