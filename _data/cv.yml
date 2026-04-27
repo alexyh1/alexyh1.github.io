@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Alexander Yuanrui He
-    - name: Email
-      value: "alexander.he@mail.utoronto.ca"
     - name: Phone Number
       value: "(647)-509-7289"
 
@@ -27,17 +25,17 @@
   type: time_table
   contents:
     - title: Research Assistant
-      institution: <a href = "https://datasciences.utoronto.ca/">University of Toronto Data Sciences Institute</a>
       year: "May 2025 -- Feb 2026"
       description:
+        - <a href = "https://datasciences.utoronto.ca/">UofT Data Sciences Institute</a> Summer Undergraduate Data Sciences (SUDS) program scholar
         - "Research assistant in data science for AI text classification task for early childhood education documents, analyzing disability and inclusion related content via LLMs (OpenAI API in Python)"
         - "Wrote Python scripts for parsing CSVs from LLM output, optimizing LLM pipelines, hallucination mitigation; average performance metrics around 80% on pilot data"
         - "Extended contract after SUDS from September 2025 to February 2026 as part of [Equity Education Canada](https://equityeducation.ca/)"
         - "Supervisor: <a href = "https://discover.research.utoronto.ca/17422-elizabeth-ann-dhuey">Professor Elizabeth Dhuey</a>." 
     - title: "Research Assistant - Research Opportunities Program"
-      institution: "<a href = "https://www.es.utoronto.ca/">University of Toronto Department of Earth Sciences</a>"
       year: "Apr 2024 -- Mar 2025"
       description:
+        - "<a href = "https://www.es.utoronto.ca/">UofT Department of Earth Sciences</a> Research Opportunities Program course: ESS299"
         - "Statistics and geoscience research position under the Department of Earth Sciences, using Convolutional Neural Networks (With the graduate team) and government legacy data to predict orogenic gold deposits in the Yukon region"
         - "Finalists for <a href = "https://pdac.ca/">Prospector’s and Developer’s Association of Canada</a> (PDAC) Frank Arnott NGEA Challenge 2025"
         - "Studying machine learning techniques including Principal Component Analysis and clustering in R"
@@ -47,8 +45,7 @@
 - title: Volunteering
   type: time_table
   contents:
-    - title: Friendly Visitor
-      institution: "<a href = "https://www.kensingtonhealth.org/">Kensington Health</a>"
+    - title: Friendly Visitor at <a href = "https://www.kensingtonhealth.org/">Kensington Health</a>
       year: "May 2025 --"
       description:
         - "Providing weekly companionship and visiting to residents, assisted in reporting resident status and safety"
