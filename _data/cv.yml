@@ -15,14 +15,14 @@
       institution: [University of Toronto](https://www.utoronto.ca/)
       year: 2026–2027 (Expected)
       description:
-        - Advisor: [Ting-Kam Leonard Wong](https://tkl-wong.github.io/)
+        - "Advisor: [Ting-Kam Leonard Wong](https://tkl-wong.github.io/)"
 
     - title: HBSc in Statistics
       institution: [University of Toronto](https://www.utoronto.ca/)
       year: 2022–2026 (Expected)
       description:
-        - Dual Specialist in [Economics and Mathematics](https://artsci.calendar.utoronto.ca/program/asspe2599) (ASSPE2599) and [Statistical Sciences](https://artsci.calendar.utoronto.ca/program/asspe2290) (ASSPE2290)
-        - Relevant Coursework: Real analysis, topology, nonlinear optimization, probability, nonlinear optimization, machine learning, mathematical statistics, multivariate methods of data (Joint-graduate) stochastic processes (Joint-graduate)
+        - "Dual Specialist in [Economics and Mathematics](https://artsci.calendar.utoronto.ca/program/asspe2599) (ASSPE2599) and [Statistical Sciences](https://artsci.calendar.utoronto.ca/program/asspe2290) (ASSPE2290)"
+        - "Relevant Coursework: Real analysis, topology, nonlinear optimization, probability, nonlinear optimization, machine learning, mathematical statistics, multivariate methods of data (Joint-graduate) stochastic processes (Joint-graduate)"
 
 - title: Experience
   type: time_table
@@ -31,29 +31,30 @@
       institution: [University of Toronto Data Sciences Institute](https://datasciences.utoronto.ca/)
       year: May 2025 - Feb 2026
       description:
-        - Research assistant in data science for AI text classification task for early childhood education documents, analyzing disability and inclusion related content via LLMs (OpenAI API in Python)
-        - Wrote Python scripts for parsing CSVs from LLM output, optimizing LLM pipelines, hallucination mitigation; average performance metrics around 80% on pilot data
-        - Extended contract after SUDS from September 2025 to February 2026 as part of [Equity Education Canada](https://equityeducation.ca/)
-        - Supervisor: Professor [Elizabeth Dhuey](https://discover.research.utoronto.ca/17422-elizabeth-ann-dhuey). 
+        - "Research assistant in data science for AI text classification task for early childhood education documents, analyzing disability and inclusion related content via LLMs (OpenAI API in Python)"
+        - "Wrote Python scripts for parsing CSVs from LLM output, optimizing LLM pipelines, hallucination mitigation; average performance metrics around 80% on pilot data"
+        - "Extended contract after SUDS from September 2025 to February 2026 as part of [Equity Education Canada](https://equityeducation.ca/)"
+        - "Supervisor: Professor [Elizabeth Dhuey](https://discover.research.utoronto.ca/17422-elizabeth-ann-dhuey)." 
   
     - title: Research Assistant - Research Opportunities Program
       institution: [University of Toronto Department of Earth Sciences](https://www.es.utoronto.ca/)
       year: Apr 2024 - Mar 2025
       description:
-        - Statistics and geoscience research position under the Department of Earth Sciences, using Convolutional Neural Networks (With the graduate team) and government legacy data to predict orogenic gold deposits in the Yukon region
-        - Finalists for [Prospector’s and Developer’s Association of Canada (PDAC)](https://pdac.ca/) Frank Arnott NGEA Challenge 2025
-        - Studying machine learning techniques including Principal Component Analysis and clustering in R
-        - Performed geospatial analysis in OSM and QGIS, mapping municipalities, power lines, legally protected areas and geophysical survey data
+        - "Statistics and geoscience research position under the Department of Earth Sciences, using Convolutional Neural Networks (With the graduate team) and government legacy data to predict orogenic gold deposits in the Yukon region"
+        - "Finalists for [Prospector’s and Developer’s Association of Canada (PDAC)](https://pdac.ca/) Frank Arnott NGEA Challenge 2025"
+        - "Studying machine learning techniques including Principal Component Analysis and clustering in R"
+        - "Performed geospatial analysis in OSM and QGIS, mapping municipalities, power lines, legally protected areas and geophysical survey data"
+        - "Supervisor: Professors Daniel Gregory, Andrei Swidinsky."
 
 - title: Volunteering
   type: time_table
   contents:
     - title: Friendly Visitor
       institution: [Kensington Health](https://www.kensingtonhealth.org/)
-      year: May 2025 --
+      year: May 2025 -
       description:
-        - Providing weekly companionship and visiting to residents, assisted in reporting resident status and safety
-        - Completed 2 month rigorous training modules on resident rights, volunteer responsibilities, ethics, grief and bereavement, communication, infection control, workplace safety, psychosocial support and more
+        - "Providing weekly companionship and visiting to residents, assisted in reporting resident status and safety"
+        - "Completed 2 month rigorous training modules on resident rights, volunteer responsibilities, ethics, grief and bereavement, communication, infection control, workplace safety, psychosocial support and more"
 
 - title: Awards
   type: time_table
@@ -61,19 +62,19 @@
     - title: SUDS Opportunities Program Award
       year: Apr 2025 - Aug 2025
       description:
-        - $7,200 funding award from the Data Sciences Institute at the University of Toronto from May to August 2025, as part of the Summer Undergraduate Data Sciences (SUDS) Opportunities Program
+        - "$7,200 funding award from the Data Sciences Institute at the University of Toronto from May to August 2025, as part of the Summer Undergraduate Data Sciences (SUDS) Opportunities Program"
   
     - title: Next Generations Explorers Award 2025 - Impact & Exploration Prize Winner
       year: 2025
       description:
-        - Runner-up award of $3000 at PDAC's NGEA conference.
+        - "Runner-up award of $3000 at PDAC's NGEA conference."
         
     - title: Dean's List
       year: Summer 2024, Fall 2025
       description:
-        - Awarded for outstanding academic promise and achievement of 3.50 CGPA or higher for the 10th and 15th credit obtained at UofT.
+        - "Awarded for outstanding academic promise and achievement of 3.50 CGPA or higher for the 10th and 15th credit obtained at UofT."
 
 - title: Skills
   type: list
   contents:
-    - Python, R, STATA, Excel, QGIS, LaTeX, GitHub
+    - "Python, R, STATA, Excel, QGIS, LaTeX, GitHub"
