@@ -12,36 +12,36 @@
   type: time_table
   contents:
     - title: MSc in Statistics
-      institution: [University of Toronto](https://www.utoronto.ca/)
+      institution: <a href = "https://www.utoronto.ca/">University of Toronto</a>
       year: "2026–2027 (Expected)"
       description:
-        - "Advisor: [Ting-Kam Leonard Wong](https://tkl-wong.github.io/)"
+        - "Advisor: <a href = "https://tkl-wong.github.io/">Ting-Kam Leonard Wong</a>
 
     - title: HBSc in Statistics
-      institution: [University of Toronto](https://www.utoronto.ca/)
+      institution: <a href = "https://www.utoronto.ca/">University of Toronto</a>
       year: "2022–2026 (Expected)"
       description:
-        - "Dual Specialist in [Economics and Mathematics](https://artsci.calendar.utoronto.ca/program/asspe2599) (ASSPE2599) and [Statistical Sciences](https://artsci.calendar.utoronto.ca/program/asspe2290) (ASSPE2290)"
+        - "Dual Specialist in <a href = "https://artsci.calendar.utoronto.ca/program/asspe2599">Economics and Mathematics</a> (ASSPE2599) and <a href = "https://artsci.calendar.utoronto.ca/program/asspe2290">Statistical Sciences</a> (ASSPE2290)"
         - "Relevant Coursework: Real analysis, topology, nonlinear optimization, probability, nonlinear optimization, machine learning, mathematical statistics, multivariate methods of data (Joint-graduate) stochastic processes (Joint-graduate)"
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Assistant
-      institution: [University of Toronto Data Sciences Institute](https://datasciences.utoronto.ca/)
+      institution: <a href = "https://datasciences.utoronto.ca/">University of Toronto Data Sciences Institute</a>
       year: "May 2025 - Feb 2026"
       description:
         - "Research assistant in data science for AI text classification task for early childhood education documents, analyzing disability and inclusion related content via LLMs (OpenAI API in Python)"
         - "Wrote Python scripts for parsing CSVs from LLM output, optimizing LLM pipelines, hallucination mitigation; average performance metrics around 80% on pilot data"
         - "Extended contract after SUDS from September 2025 to February 2026 as part of [Equity Education Canada](https://equityeducation.ca/)"
-        - "Supervisor: Professor [Elizabeth Dhuey](https://discover.research.utoronto.ca/17422-elizabeth-ann-dhuey)." 
+        - "Supervisor: <a href = "https://discover.research.utoronto.ca/17422-elizabeth-ann-dhuey">Professor Elizabeth Dhuey</a>." 
   
     - title: "Research Assistant - Research Opportunities Program"
-      institution: "[University of Toronto Department of Earth Sciences](https://www.es.utoronto.ca/)"
+      institution: "<a href = "https://www.es.utoronto.ca/">University of Toronto Department of Earth Sciences</a>"
       year: "Apr 2024 - Mar 2025"
       description:
         - "Statistics and geoscience research position under the Department of Earth Sciences, using Convolutional Neural Networks (With the graduate team) and government legacy data to predict orogenic gold deposits in the Yukon region"
-        - "Finalists for [Prospector’s and Developer’s Association of Canada (PDAC)](https://pdac.ca/) Frank Arnott NGEA Challenge 2025"
+        - "Finalists for <a href = "https://pdac.ca/">Prospector’s and Developer’s Association of Canada</a> (PDAC) Frank Arnott NGEA Challenge 2025"
         - "Studying machine learning techniques including Principal Component Analysis and clustering in R"
         - "Performed geospatial analysis in OSM and QGIS, mapping municipalities, power lines, legally protected areas and geophysical survey data"
         - "Supervisor: Professors Daniel Gregory, Andrei Swidinsky."
@@ -50,7 +50,7 @@
   type: time_table
   contents:
     - title: Friendly Visitor
-      institution: "[Kensington Health](https://www.kensingtonhealth.org/)"
+      institution: "<a href = "https://www.kensingtonhealth.org/">Kensington Health</a>"
       year: "May 2025 -"
       description:
         - "Providing weekly companionship and visiting to residents, assisted in reporting resident status and safety"
