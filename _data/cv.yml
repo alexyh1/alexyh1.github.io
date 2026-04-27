@@ -1,125 +1,79 @@
-cv:
-  name: Alexander He
-  label: ""
-  email: alexander.he@mail.utoronto.ca
-  location: Toronto, ON
-  image: ""
-  summary: ""
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Alexander Yuanrui He
+    - name: Email
+      value: alexander.he@mail.utoronto.ca
+    - name: Phone Number
+      value: (647)-509-7289
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+- title: Education
+  type: time_table
+  contents:
+    - title: MSc in Statistics
+      institution: [University of Toronto](https://www.utoronto.ca/)
+      year: 2026–2027 (Expected)
+      description:
+        - Advisor: [Ting-Kam Leonard Wong](https://tkl-wong.github.io/)
 
-  address:
-    street: ""
-    city: ""
-    region: ""
-    postalCode: ""
-    countryCode: ""
+    - title: HBSc in Statistics
+      institution: [University of Toronto](https://www.utoronto.ca/)
+      year: 2022–2026 (Expected)
+      description:
+        - Dual Specialist in [Economics and Mathematics](https://artsci.calendar.utoronto.ca/program/asspe2599) (ASSPE2599) and [Statistical Sciences](https://artsci.calendar.utoronto.ca/program/asspe2290) (ASSPE2290)
+        - Relevant Coursework: Real analysis, topology, nonlinear optimization, probability, nonlinear optimization, machine learning, mathematical statistics, multivariate methods of data (Joint-graduate) stochastic processes (Joint-graduate)
 
-  sections:
-    Education:
-      - institution: University of Toronto
-        location: ""
-        url: https://www.utoronto.ca/
-        area: Statistics
-        studyType: Master of Science
-        start_date: 2026
-        end_date: 2027
-        score: ""
-        courses: ""
-        highlights:
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: [University of Toronto Data Sciences Institute](https://datasciences.utoronto.ca/)
+      year: May 2025 - Feb 2026
+      description:
+        - Research assistant in data science for AI text classification task for early childhood education documents, analyzing disability and inclusion related content via LLMs (OpenAI API in Python)
+        - Wrote Python scripts for parsing CSVs from LLM output, optimizing LLM pipelines, hallucination mitigation; average performance metrics around 80% on pilot data
+        - Extended contract after SUDS from September 2025 to February 2026 as part of [Equity Education Canada](https://equityeducation.ca/)
+        - Supervisor: Professor [Elizabeth Dhuey](https://discover.research.utoronto.ca/17422-elizabeth-ann-dhuey). 
+  
+    - title: Research Assistant - Research Opportunities Program
+      institution: [University of Toronto Department of Earth Sciences](https://www.es.utoronto.ca/)
+      year: Apr 2024 - Mar 2025
+      description:
+        - Statistics and geoscience research position under the Department of Earth Sciences, using Convolutional Neural Networks (With the graduate team) and government legacy data to predict orogenic gold deposits in the Yukon region
+        - Finalists for [Prospector’s and Developer’s Association of Canada (PDAC)](https://pdac.ca/) Frank Arnott NGEA Challenge 2025
+        - Studying machine learning techniques including Principal Component Analysis and clustering in R
+        - Performed geospatial analysis in OSM and QGIS, mapping municipalities, power lines, legally protected areas and geophysical survey data
 
-      - institution: University of Toronto
-        location: ""
-        area: Mathematics, Economics, Statistics
-        studyType: Honours Bachelor of Science
-        start_date: 2022
-        end_date: 2026
-        highlights:
-          - Graduating with High Distinction
+- title: Volunteering
+  type: time_table
+  contents:
+    - title: Friendly Visitor
+      institution: [Kensington Health](https://www.kensingtonhealth.org/)
+      year: May 2025 --
+      description:
+        - Providing weekly companionship and visiting to residents, assisted in reporting resident status and safety
+        - Completed 2 month rigorous training modules on resident rights, volunteer responsibilities, ethics, grief and bereavement, communication, infection control, workplace safety, psychosocial support and more
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+- title: Awards
+  type: time_table
+  contents:
+    - title: SUDS Opportunities Program Award
+      year: Apr 2025 - Aug 2025
+      description:
+        - $7,200 funding award from the Data Sciences Institute at the University of Toronto from May to August 2025, as part of the Summer Undergraduate Data Sciences (SUDS) Opportunities Program
+  
+    - title: Next Generations Explorers Award 2025 - Impact & Exploration Prize Winner
+      year: 2025
+      description:
+        - Runner-up award of $3000 at PDAC's NGEA conference.
         
-    Skills:
-      - name: 
-        level: 
-        icon: 
-        keywords: "Python, RStudio, STATA, Excel, QGIS, LaTeX"
+    - title: Dean's List
+      year: Summer 2024, Fall 2025
+      description:
+        - Awarded for outstanding academic promise and achievement of 3.50 CGPA or higher for the 10th and 15th credit obtained at UofT.
 
-    Languages:
-      - name: English
-        summary: "Native speaker"
-
-      - name: Mandarin
-        summary: "Fluent"
-
-      - name: French
-        summary: "Basic"
+- title: Skills
+  type: list
+  contents:
+    - Python, R, STATA, Excel, QGIS, LaTeX, GitHub
