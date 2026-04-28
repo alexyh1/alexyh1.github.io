@@ -259,6 +259,18 @@ layout: default
             <p>{{ site.data.resume.basics.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
           </div>
         {% endif %}
+    
+        <!-- Education -->
+        {% if site.data.resume.education.size > 0 %}
+          <a class="anchor" id="education"></a>
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">Education</h3>
+            <div>
+              {% assign entries = site.data.resume.education %}
+              {% include cv/education.liquid %}
+            </div>
+          </div>
+        {% endif %}
 
         <!-- JSONResume Sections - Merge work and volunteer into Experience -->
         {% assign empty_array = '' | split: ',' %}
@@ -272,18 +284,6 @@ layout: default
             <div>
               {% assign entries = combined_experience %}
               {% include cv/experience.liquid %}
-            </div>
-          </div>
-        {% endif %}
-
-        <!-- Education -->
-        {% if site.data.resume.education.size > 0 %}
-          <a class="anchor" id="education"></a>
-          <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Education</h3>
-            <div>
-              {% assign entries = site.data.resume.education %}
-              {% include cv/education.liquid %}
             </div>
           </div>
         {% endif %}
