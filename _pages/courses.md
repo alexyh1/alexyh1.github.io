@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-Here are the courses I've taken by semester at UofT. 
+Here is a list of courses I've taken by year at UofT. 
 
 The following codes may be helpful: MAT - Mathematics, ECO - Economics, APM - Applied Mathematics, STA - Statistics, H - Half-Credit Course, Y - Full-Credit Course. Courses with sufficient mathematical / statistical content are in bold. 
 
@@ -18,7 +18,7 @@ The following codes may be helpful: MAT - Mathematics, ECO - Economics, APM - Ap
 - [STA2104H](https://sgs.calendar.utoronto.ca/course/sta2104h): **Statistical Machine Learning II**
 - [STA2475H](https://sgs.calendar.utoronto.ca/course/sta2475h): **Survival Analysis I**
 - [MAT1525H](https://sgs.calendar.utoronto.ca/course/mat1525h): **Topics in Inverse Problems and Image Analysis / Optimal Transport for Neural Networks**
-- [CSC2513H](https://sgs.calendar.utoronto.ca/course/csc2513h): **Neural Networks and Deep Learning**
+- [CSC2516H](https://sgs.calendar.utoronto.ca/course/csc2516h): **Neural Networks and Deep Learning**
 
 ## First Year Undergraduate
 - [MAT137Y1](https://artsci.calendar.utoronto.ca/course/mat137y1): **Calculus with Proofs**
