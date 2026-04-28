@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "You can find my CV in the top right corner of this page.",
+          description: "You can find my CV in the top right corner of this page. This CV is valid as of April 2026.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
