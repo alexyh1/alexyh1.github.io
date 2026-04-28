@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: courses
 permalink: /courses/
 nav: true
