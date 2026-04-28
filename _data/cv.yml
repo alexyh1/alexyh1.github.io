@@ -52,6 +52,7 @@ cv:
 
       - institution: University of Toronto
         location: Toronto, ON
+        url: https://www.utoronto.ca
         area: Statistics
         studyType: Honours Bachelor of Science
         start_date: 2022
