@@ -7,17 +7,18 @@ nav_order: 4
 ---
 
 Here are the courses I've taken by semester at UofT. 
-The following course codes may be helpful: MAT - Mathematics, ECO - Economics, APM - Applied Mathematics, STA - Statistics
+
+The following codes may be helpful: MAT - Mathematics, ECO - Economics, APM - Applied Mathematics, STA - Statistics, H - Half-Credit Course, Y - Full-Credit Course.
 
 ## Masters (Tentative)
-- [MAT1000](https://sgs.calendar.utoronto.ca/course/mat1000h): Advanced Real Analysis I
-- [STA2111](https://sgs.calendar.utoronto.ca/course/sta2111h): Graduate Probability I
-- [STA2311](https://sgs.calendar.utoronto.ca/course/sta2311h): Advanced Computational Methods for Statistics I
-- [STA4000](https://sgs.calendar.utoronto.ca/course/sta4000h): Supervised Reading Project (Advisor: [Ting-Kam Leonard Wong](https://tkl-wong.github.io/))
-- [STA2104](https://sgs.calendar.utoronto.ca/course/sta2104h): Statistical Machine Learning II
-- [STA2475](https://sgs.calendar.utoronto.ca/course/sta2475h): Survival Analysis I
-- [MAT1525](https://sgs.calendar.utoronto.ca/course/mat1525h): Topics in Inverse Problems and Image Analysis / Optimal Transport for Neural Networks
-- [CSC2513](https://sgs.calendar.utoronto.ca/course/csc2513h): Neural Networks and Deep Learning
+- [MAT1000H](https://sgs.calendar.utoronto.ca/course/mat1000h): Advanced Real Analysis I
+- [STA2111H](https://sgs.calendar.utoronto.ca/course/sta2111h): Graduate Probability I
+- [STA2311H](https://sgs.calendar.utoronto.ca/course/sta2311h): Advanced Computational Methods for Statistics I
+- [STA4000H](https://sgs.calendar.utoronto.ca/course/sta4000h): Supervised Reading Project (Advisor: [Ting-Kam Leonard Wong](https://tkl-wong.github.io/))
+- [STA2104H](https://sgs.calendar.utoronto.ca/course/sta2104h): Statistical Machine Learning II
+- [STA2475H](https://sgs.calendar.utoronto.ca/course/sta2475h): Survival Analysis I
+- [MAT1525H](https://sgs.calendar.utoronto.ca/course/mat1525h): Topics in Inverse Problems and Image Analysis / Optimal Transport for Neural Networks
+- [CSC2513H](https://sgs.calendar.utoronto.ca/course/csc2513h): Neural Networks and Deep Learning
 
 ## First Year Undergraduate
 - [MAT137Y1](https://artsci.calendar.utoronto.ca/course/mat137y1): Calculus with Proofs
