@@ -21,7 +21,7 @@ The following codes may be helpful: MAT - Mathematics, ECO - Economics, APM - Ap
 - [CSC2513H](https://sgs.calendar.utoronto.ca/course/csc2513h): **Neural Networks and Deep Learning**
 
 ## First Year Undergraduate
-- [MAT137Y1](https://artsci.calendar.utoronto.ca/course/mat137y1): **#Calculus with Proofs**
+- [MAT137Y1](https://artsci.calendar.utoronto.ca/course/mat137y1): **Calculus with Proofs**
 - [CSC108H1](https://artsci.calendar.utoronto.ca/course/csc108h1): Introduction to Computer Programming
 - [ECO101H1](https://artsci.calendar.utoronto.ca/course/eco101h1): Principles of Microeconomics
 - [MAT223H1](https://artsci.calendar.utoronto.ca/course/mat223h1): **Linear Algebra I**
