@@ -3,7 +3,7 @@ layout: default
 title: courses
 permalink: /courses/
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 Here are the courses I've taken by semester at UofT. 
