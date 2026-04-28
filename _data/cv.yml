@@ -14,42 +14,29 @@ cv:
 
   sections:
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: UofT Data Sciences Institute + Equity Education Canada
+        position: Research Assistant, Summer Undergraduate Data Sciences (SUDS) Program
+        location: Toronto, ON
+        start_date: 2025
+        end_date: 2026
         highlights:
-          - Relativity
-          - Description 2.
+          - Research assistant in data science for AI text classification task for early childhood education documents, analyzing disability and inclusion related content via LLMs (OpenAI API in Python)
+          - Wrote Python scripts for parsing CSVs from LLM output, optimizing LLM pipelines, hallucination mitigation; average performance metrics around 80% on pilot data
+          - Extended contract after SUDS from September 2025 to February 2026 as part of <a href = "https://equityeducation.ca/">Equity Education Canada</a>
+          - Supervised by Professor <a href = "https://discover.research.utoronto.ca/17422-elizabeth-ann-dhuey">Elizabeth Dhuey</a>" .
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: UofT Department of Earth Sciences
+        position: Research Assistant (Research Opportunities Program, ESS299)
+        location: Toronto, ON
+        start_date: 2024
+        end_date: 2025
         highlights:
-          - Description 1.
-          - Description 2.
+          - Statistics and geoscience research position under the Department of Earth Sciences, using Convolutional Neural Networks (With the graduate team) and government legacy data to predict orogenic gold deposits in the Yukon region
+          - Finalists for <a href = "https://pdac.ca/">Prospector’s and Developer’s Association of Canada</a> (PDAC) Frank Arnott NGEA Challenge 2025
+          - Studying machine learning techniques including Principal Component Analysis and clustering in R
+          - Performed geospatial analysis in OSM and QGIS, mapping municipalities, power lines, legally protected areas and geophysical survey data
+          - Supervised by Professors Daniel Gregory, Andrei Swidinsky. 
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
 
     Education:
       - institution: University of Toronto
@@ -61,7 +48,7 @@ cv:
         end_date: 2027
         score: ""
         highlights:
-          - Advised by <a href = "https://tkl-wong.github.io/">Ting-Kam Leonard Wong</a>
+          - Advised by Professor <a href = "https://tkl-wong.github.io/">Ting-Kam Leonard Wong</a>
 
       - institution: University of Toronto
         location: Toronto, ON
@@ -73,24 +60,14 @@ cv:
           - Dual Specialist in <a href = "https://artsci.calendar.utoronto.ca/program/asspe2599">Economics and Mathematics</a> (ASSPE2599) and <a href = "https://artsci.calendar.utoronto.ca/program/asspe2290">Statistical Sciences</a> (ASSPE2290)"
           - Graduating with High Distinction
 
-    Volunteer:
-      - company: <a href = "https://www.kensingtonhealth.org/">Kensington Health</a>
-        position: Friendly Visitor
-        location: Toronto, ON
-        start_date: 2025-05
-        end_date: 2026-03
-        highlights:
-          - Providing weekly companionship and visiting to residents, assisted in reporting resident status and safety
-          - Completed 2 month rigorous training modules on resident rights, volunteer responsibilities, ethics, grief and bereavement, communication, infection control, workplace safety, psychosocial support and more
-
     Awards:
       - title: SUDS Opportunities Program Award
         authors:
-          - "University of Toronto Data Sciences Institute"
+          - "UofT Data Sciences Institute"
         date: 2025-04
-        awarder: University of Toronto Data Sciences Institute
+        awarder: UofT Data Sciences Institute
         url: https://datasciences.utoronto.ca/dsisuds-scholars/
-        summary: $7,200 funding award from the Data Sciences Institute at the University of Toronto from May to August 2025, as part of the Summer Undergraduate Data Sciences (SUDS) Opportunities Program
+        summary: $7,200 funding awardas part of the Summer Undergraduate Data Sciences (SUDS) Opportunities Program cohort scheduling
 
       - title: Next Generations Explorers Award 2025 - Impact & Exploration Prize Winner
         authors:
