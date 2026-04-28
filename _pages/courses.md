@@ -27,7 +27,7 @@ The following course codes may be helpful: MAT - Mathematics, ECO - Economics, A
 - [CSC165H1](https://artsci.calendar.utoronto.ca/course/csc165h1): Mathematical Expression and Reasoning for Computer Science
 - [ECO102H1](https://artsci.calendar.utoronto.ca/course/eco102h1): Principles of Macroeconomics
 - [MAT224H1](https://artsci.calendar.utoronto.ca/course/mat224h1): Linear Algebra II
-- [LIN200H1](https://artsci.calendar.utoronto.ca/course/lin200h1): Introduction to Language
+- [LIN200H1](https://artsci.calendar.utoronto.ca/course/lin200h1): Introduction to Language (Breadth)
 
 ## Second Year Undergraduate
 - [MAT237Y1](https://artsci.calendar.utoronto.ca/course/mat237y1): Multivariable Calculus with Proofs / Advanced Calculus
@@ -60,7 +60,7 @@ The following course codes may be helpful: MAT - Mathematics, ECO - Economics, A
 - [STA437H1](https://artsci.calendar.utoronto.ca/course/sta437h1): Methods of Multivariate Data
 - [STA452H1](https://artsci.calendar.utoronto.ca/course/sta452h1): Mathematical Statistics I
 - [ECO333H1](https://artsci.calendar.utoronto.ca/course/eco333h1): Urban Economics
-- [PHL245H1](https://artsci.calendar.utoronto.ca/course/phl245h1): Modern Symbolic Logic
+- [PHL245H1](https://artsci.calendar.utoronto.ca/course/phl245h1): Modern Symbolic Logic (Breadth)
 - [STA303H1](https://artsci.calendar.utoronto.ca/course/sta303h1): Data Analysis II
 - [STA447H1](https://artsci.calendar.utoronto.ca/course/sta447h1): Stochastic Processes
 - [STA492H1](https://artsci.calendar.utoronto.ca/course/sta492h1): Seminar in Statistical Science
