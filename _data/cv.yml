@@ -61,7 +61,7 @@ cv:
         end_date: 2027
         score: ""
         highlights:
-          - Advisor: <a href = "https://tkl-wong.github.io/">Ting-Kam Leonard Wong</a>
+          - "Advisor: <a href = "https://tkl-wong.github.io/">Ting-Kam Leonard Wong</a>"
 
       - institution: University of Toronto
         location: Toronto, ON
