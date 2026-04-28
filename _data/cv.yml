@@ -52,67 +52,69 @@ cv:
         end_date: 1911
 
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: University of Toronto
+        location: Toronto, ON
+        url: https://www.utoronto.ca
+        area: Statistics
+        studyType: Master of Science
+        start_date: 2026
+        end_date: 2027
         score: ""
-        courses: "Theory of Relativity"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Advisor: <a href = "https://tkl-wong.github.io/">Ting-Kam Leonard Wong</a>
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of Toronto
+        location: Toronto, ON
+        area: Statistics
+        studyType: Honours Bachelor of Science
+        start_date: 2022
+        end_date: 2026
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Dual Specialist in <a href = "https://artsci.calendar.utoronto.ca/program/asspe2599">Economics and Mathematics</a> (ASSPE2599) and <a href = "https://artsci.calendar.utoronto.ca/program/asspe2290">Statistical Sciences</a> (ASSPE2290)"
+          - Graduating with High Distinction
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: <a href = "https://www.kensingtonhealth.org/">Kensington Health</a>
+        position: Friendly Visitor
+        location: Toronto, ON
+        start_date: 2025-05
+        end_date: 2026-03
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Providing weekly companionship and visiting to residents, assisted in reporting resident status and safety"
+          - "Completed 2 month rigorous training modules on resident rights, volunteer responsibilities, ethics, grief and bereavement, communication, infection control, workplace safety, psychosocial support and more"
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: SUDS Opportunities Program Award
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "University of Toronto Data Sciences Institute"
+        date: 2025-04
+        awarder: University of Toronto Data Sciences Institute
+        url: https://datasciences.utoronto.ca/dsisuds-scholars/
+        summary: "$7,200 funding award from the Data Sciences Institute at the University of Toronto from May to August 2025, as part of the Summer Undergraduate Data Sciences (SUDS) Opportunities Program"
 
-      - title: Max Planck Medal
+      - title: Next Generations Explorers Award 2025 - Impact & Exploration Prize Winner
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "Prospectors and Developers Association of Canada"
+        date: 2025-03
+        awarder: Prospectors and Developers Association of Canada
+        url: https://pdac.ca/students/frank-arnott-award/2025-challenge
+        summary: "Runner-up award of $3000 at PDAC's NGEA conference."
+
+      - title: Dean's List Scholar
+        summary: "Awarded for outstanding academic promise and achievement of 3.50 CGPA or higher for the 10th and 15th credit obtained at UofT (Summer 2024, Winter 2025)."
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Statistics
+        level: HBSc
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Python, R, STATA, Excel, QGIS, LaTeX, GitHub"
 
     Languages:
-      - name: German
+      - name: English
         summary: "Native speaker"
 
-      - name: English
+      - name: Mandarin
         summary: "Fluent"
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+
+      - name: French
+        summary: "Basic"
