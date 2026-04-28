@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-coursework",
+          title: "Coursework",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/courses/";
+          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "",
