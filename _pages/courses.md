@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coursework
+title: courses
 permalink: /courses/
 nav: true
 nav_order: 4
