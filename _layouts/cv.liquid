@@ -121,14 +121,12 @@ layout: default
         {% endif %}
 
         <!-- Render education -->
-        {% assign empty_array = '' | split: ',' %}
-        {% assign edu = cv.sections.Education | default: empty_array %}
-        {% if edu.size > 0 %}
+        {% if site.data.resume.education.size > 0 %}
           <a class="anchor" id="education"></a>
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">Education</h3>
             <div>
-              {% assign entries = edu %}
+              {% assign entries = site.data.resume.education %}
               {% include cv/education.liquid %}
             </div>
           </div>
@@ -157,7 +155,7 @@ layout: default
           {% assign section_entries = section_pair[1] %}
 
           {% comment %} Skip Experience and Volunteer as we've already processed them combined {% endcomment %}
-          {% if section_title == 'Experience' or section_title == 'Volunteer' %}
+          {% if section_title == 'Experience' or section_title == 'Volunteer' or section_title == 'Education' %}
             {% continue %}
           {% endif %}
 
