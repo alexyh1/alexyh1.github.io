@@ -157,7 +157,7 @@ layout: default
           {% assign section_entries = section_pair[1] %}
 
           {% comment %} Skip Experience and Volunteer as we've already processed them combined {% endcomment %}
-          {% if section_title == 'Experience' or section_title == 'Volunteer' or section_title == 'Education' %}
+          {% if section_title == 'Experience' or section_title == 'Volunteer' %}
             {% continue %}
           {% endif %}
 
