@@ -70,7 +70,7 @@ cv:
         start_date: 2022
         end_date: 2026
         highlights:
-          - "Dual Specialist in <a href = "https://artsci.calendar.utoronto.ca/program/asspe2599">Economics and Mathematics</a> (ASSPE2599) and <a href = "https://artsci.calendar.utoronto.ca/program/asspe2290">Statistical Sciences</a> (ASSPE2290)"
+          - Dual Specialist in <a href = "https://artsci.calendar.utoronto.ca/program/asspe2599">Economics and Mathematics</a> (ASSPE2599) and <a href = "https://artsci.calendar.utoronto.ca/program/asspe2290">Statistical Sciences</a> (ASSPE2290)"
           - Graduating with High Distinction
 
     Volunteer:
@@ -80,8 +80,8 @@ cv:
         start_date: 2025-05
         end_date: 2026-03
         highlights:
-          - "Providing weekly companionship and visiting to residents, assisted in reporting resident status and safety"
-          - "Completed 2 month rigorous training modules on resident rights, volunteer responsibilities, ethics, grief and bereavement, communication, infection control, workplace safety, psychosocial support and more"
+          - Providing weekly companionship and visiting to residents, assisted in reporting resident status and safety
+          - Completed 2 month rigorous training modules on resident rights, volunteer responsibilities, ethics, grief and bereavement, communication, infection control, workplace safety, psychosocial support and more
 
     Awards:
       - title: SUDS Opportunities Program Award
@@ -90,7 +90,7 @@ cv:
         date: 2025-04
         awarder: University of Toronto Data Sciences Institute
         url: https://datasciences.utoronto.ca/dsisuds-scholars/
-        summary: "$7,200 funding award from the Data Sciences Institute at the University of Toronto from May to August 2025, as part of the Summer Undergraduate Data Sciences (SUDS) Opportunities Program"
+        summary: $7,200 funding award from the Data Sciences Institute at the University of Toronto from May to August 2025, as part of the Summer Undergraduate Data Sciences (SUDS) Opportunities Program
 
       - title: Next Generations Explorers Award 2025 - Impact & Exploration Prize Winner
         authors:
@@ -98,10 +98,10 @@ cv:
         date: 2025-03
         awarder: Prospectors and Developers Association of Canada
         url: https://pdac.ca/students/frank-arnott-award/2025-challenge
-        summary: "Runner-up award of $3000 at PDAC's NGEA conference."
+        summary: Runner-up award of $3000 at PDAC's NGEA conference.
 
       - title: Dean's List Scholar
-        summary: "Awarded for outstanding academic promise and achievement of 3.50 CGPA or higher for the 10th and 15th credit obtained at UofT (Summer 2024, Winter 2025)."
+        summary: Awarded for outstanding academic promise and achievement of 3.50 CGPA or higher for the 10th and 15th credit obtained at UofT (Summer 2024, Winter 2025).
 
     Skills:
       - name: Statistics
