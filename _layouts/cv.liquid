@@ -121,7 +121,8 @@ layout: default
         {% endif %}
 
         <!-- Render education -->
-        {% if site.data.resume.education.size > 0 %}
+        {% assign edu = cv.sections.Education | default: empty_array %}
+        {% if edu.size > 0 %}
           <a class="anchor" id="education"></a>
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">Education</h3>
@@ -155,7 +156,10 @@ layout: default
           {% assign section_entries = section_pair[1] %}
 
           {% comment %} Skip Experience and Volunteer as we've already processed them combined {% endcomment %}
-
+          {% assign section_title_lower = section_title | downcase %}
+          {% if section_title == 'Experience' or section_title == 'Volunteer' or section_title == 'Education' %}
+            {% continue %}
+          {% endif %}
 
           <a class="anchor" id="{{ section_title | slugify }}"></a>
           <div class="card mt-3 p-3">
