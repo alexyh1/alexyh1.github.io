@@ -131,21 +131,23 @@ layout: default
           </div>
 
         <!-- RenderCV Sections - Merge Experience and Volunteer -->
+        {% comment %}
         {% comment %} First, combine Experience and Volunteer entries {% endcomment %}
         {% assign empty_array = '' | split: ',' %}
         {% assign exp = cv.sections.Experience | default: empty_array %}
         {% assign vol = cv.sections.Volunteer | default: empty_array %}
         {% assign combined_experience = exp | concat: vol %}
         {% if combined_experience.size > 0 %}
-          <a class="anchor" id="experience"></a>
-          <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Experience</h3>
-            <div>
-              {% assign entries = combined_experience %}
-              {% include cv/experience.liquid %}
-            </div>
+        {% endcomment %}
+        <a class="anchor" id="experience"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">Experience</h3>
+          <div>
+            {% assign entries = combined_experience %}
+            {% include cv/experience.liquid %}
           </div>
-        {% endif %}
+        </div>
+        {% comment %}{% endif %}{% endcomment %}
 
         {% comment %} Now render all other sections except Experience and Volunteer {% endcomment %}
         {% for section_pair in cv.sections %}
