@@ -8,7 +8,7 @@ nav_order: 3
 
 Here is a list of courses I've taken by year at UofT. 
 
-The following codes may be helpful: MAT - Mathematics, ECO - Economics, APM - Applied Mathematics, STA - Statistics, H - Half-Credit Course, Y - Full-Credit Course. Courses with sufficient mathematical / statistical content are in bold. 
+The following codes may be helpful: MAT - Mathematics, ECO - Economics, CSC - Computer Science, APM - Applied Mathematics, STA - Statistics, H - Half-Credit Course, Y - Full-Credit Course. Courses with sufficient mathematical / statistical content are in bold. 
 
 ## Masters (Tentative)
 - [MAT1000H](https://sgs.calendar.utoronto.ca/course/mat1000h): **Advanced Real Analysis I**
@@ -25,7 +25,7 @@ The following codes may be helpful: MAT - Mathematics, ECO - Economics, APM - Ap
 - [CSC108H1](https://artsci.calendar.utoronto.ca/course/csc108h1): Introduction to Computer Programming
 - [ECO101H1](https://artsci.calendar.utoronto.ca/course/eco101h1): Principles of Microeconomics
 - [MAT223H1](https://artsci.calendar.utoronto.ca/course/mat223h1): **Linear Algebra I**
-- [CSC165H1](https://artsci.calendar.utoronto.ca/course/csc165h1): Mathematical Expression and Reasoning for Computer Science
+- [CSC165H1](https://artsci.calendar.utoronto.ca/course/csc165h1): **Mathematical Expression and Reasoning for Computer Science**
 - [ECO102H1](https://artsci.calendar.utoronto.ca/course/eco102h1): Principles of Macroeconomics
 - [MAT224H1](https://artsci.calendar.utoronto.ca/course/mat224h1): **Linear Algebra II**
 - [LIN200H1](https://artsci.calendar.utoronto.ca/course/lin200h1): Introduction to Language (Breadth)
@@ -55,7 +55,7 @@ The following codes may be helpful: MAT - Mathematics, ECO - Economics, APM - Ap
 - [STA314H1](https://artsci.calendar.utoronto.ca/course/sta314h1): **Statistical Machine Learning I**
 
 ## Fourth Year Undergraduate
-- [ECO418H1](https://artsci.calendar.utoronto.ca/course/eco418h1): Empirical Applications of Economic Theory
+- [ECO418H1](https://artsci.calendar.utoronto.ca/course/eco418h1): **Empirical Applications of Economic Theory**
 - [STA304H1](https://artsci.calendar.utoronto.ca/course/sta304h1): Survey, Sampling and Observational Data
 - [STA355H1](https://artsci.calendar.utoronto.ca/course/sta355h1): **Theory of Statistical Practice**
 - [STA437H1](https://artsci.calendar.utoronto.ca/course/sta437h1): **Methods of Multivariate Data**
