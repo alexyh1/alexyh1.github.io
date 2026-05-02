@@ -20,7 +20,7 @@ cv:
         start_date: 2025
         end_date: 2026
         highlights:
-          - Research assistant in data science for AI text classification task for early childhood education documents, analyzing disability and inclusion related content via LLMs (OpenAI API in Python)
+          - Research assistant in data science for AI text classification task for early childhood education documents, analyzing special education related content via LLMs (OpenAI API in Python)
           - Wrote Python scripts for parsing CSVs from LLM output, optimizing LLM pipelines, hallucination mitigation; average performance metrics around 80% on pilot data
           - Extended contract after SUDS from September 2025 to February 2026 as part of <a href = "https://equityeducation.ca/">Equity Education Canada</a>
           - Supervised by Professor <a href = "https://discover.research.utoronto.ca/17422-elizabeth-ann-dhuey">Elizabeth Dhuey</a>.
