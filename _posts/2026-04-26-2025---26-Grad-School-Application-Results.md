@@ -25,12 +25,6 @@ I am also a Canadian citizen, which made the application process significantly e
 
 ## Grades
 
-
-**The Good News:**
-
-**The Bad News:**
-
-
 ## Courses
 
 ## Recommendation Letters
