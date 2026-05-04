@@ -70,9 +70,9 @@ After a very long application season, here is my list and the corresponding resu
 | UofT Rotman PhD Management | Ghosted |
 | UofT PhD Mechanical and Industrial Engineering | Ghosted |
 | UCLA Master of Quantitative Economics | Interviewed -> Waitlisted -> Admitted from waitlist |
-| UBC MA Economics | Admitted with funding |
-| Waterloo MMath Statistics | Admitted with funding |
-| UofT MA Economics | Admitted with funding + Scholarship |
+| UBC MA Economics | Admitted with full funding |
+| Waterloo MMath Statistics | Admitted with full funding |
+| UofT MA Economics | Admitted with full funding + Scholarship |
 | UofT MSc Biostatistics | Admitted |
 | UofT MSc Statistics | Admitted -> Accepted! |
 
