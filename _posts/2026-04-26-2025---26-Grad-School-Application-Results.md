@@ -25,12 +25,12 @@ I am also a Canadian citizen, which made the application process significantly e
 ## Grades
 
 **The Good News**: 
-- With the exception of Year 1, my Year 2 - 4 GPA was around a 3.9 in core courses (Topology, real analysis, probability, etc) which gave me an easier academic narrative to write about.
+- With the exception of Year 1, my Year 2 - 4 GPA was around a 3.9 and > A- for all courses except one (Topology, real analysis, probability, etc) which gave me an easier narrative to write about in my Statement of Purpose.
 - Most Canadian programs only use grades from the final year or final 2 years as a benchmark, so students who struggled early on can still remain competitive for grad school (Me!).
 
 **The Bad News**: 
 - My cumulative GPA was significantly pulled down as a result of my first year (I started university in the 2.0s). While Canadian programs are only concerned with grades in the last two years, many US programs (Anecdotally) use CGPA as an initial filter so there is a risk of being screened out when facing hundreds of applications.
-- One questionable grade in my upper year coursework (Low B in Data Analysis I) might've hurt for US PhDs, considering it's a core course in most Statistics curriculums.
+- My only questionable grade in my upper year courses (Low B in Data Analysis I) might've hurt for US PhDs, considering it's a core course in most Statistics curriculums.
 
 ## Courses
 
@@ -38,19 +38,43 @@ I've been told by professors that course selection is more important than the gr
 
 ## Recommendation Letters
 
-Arguably the most important part of the entire PhD admissions process. Students with mediocre academic track records are still able to get in programs if they have superstar letters. Conversely, an outright bad LOR can tank an otherwise strong applicant. In general, research letters dominate course letters but at least 1R + 2C should be okay. For Economics programs, all of my letter writers were Economics professors, and for Statistics programs, I went with a combination of 2 Econ profs + another letter from my Real Analysis instructor. It's also a good idea to have backup letter writers in case of emergencies. Make sure to be very grateful throughout this entire process as it can be very mentally intensive (A lot of programs require an additional questionnaire section along with the standard LOR, so the time investment can really add up). This is also a chance to bring up any exceptional circumstances to your writers (E.g. unusual grades, life events) except possibly in the Statement of Purpose.
+Arguably the most important part of the entire PhD admissions process. Students with mediocre academic track records are still able to be admitted if they have superstar letters. Conversely, an outright bad LOR can tank an otherwise strong applicant. In general, research letters dominate course letters but at least 1R + 2C should be okay. For Economics programs, all of my letter writers were Economics professors, and for Statistics programs, I went with a combination of 2 Econ profs + another letter from my Real Analysis instructor. It's also a good idea to have backup letter writers in case of emergencies. Make sure to be very grateful throughout this entire process as it can be very mentally intensive (A lot of programs require an additional questionnaire section along with the standard LOR, so the time investment can really add up). This is also a chance to bring up any exceptional circumstances to your writers (E.g. unusual grades, life events) except possibly in the SOP.
 
 ## Test Scores
 
-I only submitted GRE scores for programs where it was mandatory to do so as I one-shotted it with only two weeks of studying (Not recommended!). For most STEM programs, 155V 168Q 4.0AWA or higher should be the baseline.
+I only submitted GRE scores for programs where it was mandatory to do so as I one-shotted it with only two weeks of studying (Not recommended!). For most STEM programs, 155V 168Q 4.0AWA should be the minimum acceptable score.
 
 ## Research Experience
 
-Please refer to the other sections in my website. I should mention that I did not have any publications at the time of application; this is less desirable for Statistics programs but expected in Economics.
+Please refer to the other sections in my website. Note that I did not have any publications at the time of application; this is less desirable for Statistics programs but expected in Economics.
 
 ## Application Materials
 
-## Results
+I'm not sure if I'm the best person to ask for CV and SOP advice as there are better threads online for doing so. However you should to tailor your SOP to each school and mention one thing that's unique about the program (For example, I mentioned how UofT's Statistics PhD has the [MDoc program](https://canssiontario.utoronto.ca/opportunities/uoft-opportunities/mdoc/) which allows you to be co-supervised by a professor outside your home department). You should also mention 1-3 professors and their research area you'd like to work with and mention publications when applicable. **If you'd like a copy of my material as inspiration for your own writing, please send me an email. It goes to say that please do not copy anything that I wrote verbatim.**
+
+## Decisions
+
+After a very long application season, here is my list and the corresponding results:
+
+| Program | Result |
+|------------------|--------|
+| UC Berkeley PhD Biostatistics | Rejected |
+| Duke PhD Economics | Rejected |
+| UMich PhD Economics | Rejected |
+| UMich PhD Industrial and Operations Engineering | Rejected |
+| UMich PhD Biostatistics | Rejected - Offered MS, without funding |
+| Waterloo PhD Biostatistics | Rejected |
+| Waterloo PhD Statistics | Rejected |
+| UofT PhD Economics | Waitlisted -> Withdrew |
+| UofT PhD Statistics | Interviewed -> Rejected |
+| UofT Rotman PhD Management | Ghosted |
+| UofT PhD Mechanical and Industrial Engineering | Ghosted |
+| UCLA Master of Quantitative Economics | Interviewed -> Waitlisted -> Admitted from waitlist |
+| UBC MA Economics | Admitted with funding |
+| Waterloo MMath Statistics | Admitted with funding |
+| UofT MA Economics | Admitted with funding + Scholarship |
+| UofT MSc Biostatistics | Admitted |
+| UofT MSc Statistics | Admitted -> Accepted! |
 
 ## Bonus Round: Pivoting from Economics to Statistics
 
