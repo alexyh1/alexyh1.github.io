@@ -4,7 +4,6 @@ title: "2025-26 Grad School Application Cycle"
 date: 2026-04-26
 categories: ["grad school"]
 ---
-## In progress
 
 Now that enough time has passed after hearing back from most programs, I've found other threads exceedingly helpful in preparing for graduate applications and wanted to pass on the favor. I hope that this post will help any aspiring grad students that want to pursue Statistics in the near future.
 
