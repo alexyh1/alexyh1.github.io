@@ -30,11 +30,10 @@ I am also a Canadian citizen, which made the application process significantly e
 **The Bad**: 
 - My cumulative GPA was significantly pulled down as a result of my first year (I started university in the 2.0s). While Canadian programs are only concerned with grades in the last two years, many US programs (Anecdotally) use CGPA as an initial filter so there is a risk of being screened out when it comes down to hundreds of applications for a few spots.
 - My only questionable grade in upper year courses (Low B in Data Analysis I) might've hurt for US PhDs, considering it's a core course in most Statistics curriculums.
-- For Economics PhD programs, I applied without a predoc which is often used as an unofficial requirement given the competition of Econ Academia in recent years.
 
 ## Courses
 
-I've been told by professors that course selection is more important than the grades you receive in them. At the time of applying to Direct-Entry PhD programs I wanted to stand out by taking more rigorous courses (E.g. topology, PDEs, ML) especially to compensate for my GPA as well. Generally, it's a better idea to take hard courses and do average in them (~ B range) over not taking them at all.
+I've been told by professors that course selection is more important than the grades you receive in them. At the time of applying to Direct-Entry PhD programs I wanted to stand out by taking more rigorous courses (E.g. topology, PDEs, ML) especially to compensate for my GPA as well. This is especially important for Economics PhDs since I did not have a predoc at the time of application which is usually a filter at competitive programs. Generally, it's a better idea to take hard courses and do average in them (~ B range) over not taking them at all.
 
 ## Recommendation Letters
 
@@ -54,7 +53,7 @@ I'm not sure if I'm the best person to ask for CV and SOP advice as there are be
 
 ## Decisions
 
-After a very long application season, here is my list and the corresponding results:
+After a very long application season, here is my list and the corresponding results:<br/><br/>
 
 | Program | Result |
 |------------------|--------|
