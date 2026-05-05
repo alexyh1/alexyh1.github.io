@@ -80,7 +80,7 @@ My final decision came down to picking between 4 offers (UofT MSc, Waterloo MMat
 
 ## Final Thoughts
 
-At first, I was slightly bummed out about not being admitted to any PhD programs, but this was the best possible outcome for me. Hindsight 20/20 I just finished undergrad at the time of writing this, and my entire rationale was very naive. A PhD is more than just doing well in courses, but it depends on being able to create new knowledge in a field as opposed to absorbing it. Doing a Master's would really help me familarize myself with academic research, especially if I can get a publication or two under my belt. I'm very happy and grateful for my offers and I'm looking forward to whatever else is on the horizon. I'm planning to reapply for PhDs during the 2026-2027 academic year, so I'll make another blog post as an update to this. 
+At first, I was slightly bummed out about not being admitted to any PhD programs, but this was the best possible outcome for me. Hindsight 20/20 I just finished undergrad at the time of writing this, and my entire perspective on academia was very naive (And I'm sure it will remain so after my Master's as well). A PhD is more than just doing well in courses, but it depends on being able to create new knowledge in a field as opposed to absorbing it. Doing a Master's would really help me familarize myself with academic research, especially if I can get a publication or two under my belt before next cycle. I'm very happy and grateful for my offers and I'm looking forward to whatever else is on the horizon. I'm planning to reapply for PhDs during the 2026-2027 academic year, so I'll make another blog post as an update to this. 
 
 *Soli Deo Gloria*
 
