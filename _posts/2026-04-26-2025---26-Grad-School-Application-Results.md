@@ -19,7 +19,7 @@ My initial research interests were very broad across Health Economics and Biosta
 
 *"If anyone has material possessions and sees a brother or sister in need but has no pity on them, how can the love of God be in that person? Dear children, let us not love with words or speech but with actions and in truth."* (1 John 3: 17-18).
 
-I am also a Canadian citizen, which made the application process significantly easier for both admission and government-funded opportunities (I did not apply to these positions in time). Unfortunately, the international pool for most Canadian programs is much more competitive as many cohorts are predominantly domestic, so the larger application pool, higher tuition and less funding opportunities creates a tighter bottleneck (E.g. you can check historical trends on the [UofT PhD Admissions Tableau](https://www.sgs.utoronto.ca/about/explore-our-data/doctoral-admissions-enrolment/)). This is why you usually see international applicant profiles being stronger on average than their domestic counterparts.
+I am also a Canadian citizen, so I was very much privileged in the admissions process and had access to government-funded opportunities (I did not apply to these positions in time). Unfortunately, the international pool for most Canadian programs is much more competitive as many cohorts are predominantly domestic, so the larger application pool, higher tuition and less funding opportunities creates a tighter bottleneck (E.g. you can check historical trends on the [UofT PhD Admissions Tableau](https://www.sgs.utoronto.ca/about/explore-our-data/doctoral-admissions-enrolment/)). This is why you usually see international applicant profiles being stronger on average than their domestic counterparts.
 
 ## Grades
 
