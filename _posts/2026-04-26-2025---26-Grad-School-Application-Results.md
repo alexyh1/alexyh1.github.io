@@ -9,7 +9,7 @@ Now that enough time has passed after hearing back from most programs, I've foun
 
 Before I proceed, I'd like to start with several acknowledgements. I've largely been inspired from [Daniel Posmik's](https://posmikdc.github.io/blog/2024/biostats-phd-admit/) post and profited from his feedback, especially how we've had similar trajectories in undergrad (Both initally wanting to pursue Economics PhDs and pivoting to Statistics / Biostatistics). I would also like to give a sincere thank-you to my recommendation letter writers (Who were bombarded with **many** electronic requests) as none of this would have been possible without their support. I am also indebted to the various friends and professors at UofT who provided me with invaluable feedback and support in both my coursework and graduate applications. Finally, to my [girlfriend](https://emilysu.me) and family, thank you so much for the sacrifices you have made for me during my undergraduate studies. 
 
-***Please note that the opinions in this post are my own and do not represent the views of any external parties mentioned in this blog. My advice can only be so helpful as an incoming graduate student and I strongly recommend pairing it with other resources if possible. Take anything I say here with a MOUNTAIN of salt.***
+***Please note that the opinions in this post are my own and do not represent the views of any external parties mentioned in this blog. My advice can only be so helpful as an incoming graduate student and I strongly recommend pairing it with other resources if possible. Take anything I say here with a heap of salt.***
 
 ## Trivia + Background Information
 
