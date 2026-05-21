@@ -13,7 +13,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: uoft, machine learning, statistics, biostatistics, economics, mathematics, optimal transport, research, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Toronto, UofT, Machine Learning, Statistics, Biostatistics, Economics, Mathematics, Optimal Transport, Research, Academic-Website, Portfolio-Website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ✝️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -83,7 +83,8 @@ pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: # your google-site-verification ID (Google Search Console)
+google_site_verification: mX0PMot4-YGBzdkxklav7g3Q6nXh8p8dthCAxklCNRM your google-site-verification ID (Google Search Console)
+<meta name="google-site-verification" content= />
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
