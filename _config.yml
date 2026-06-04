@@ -6,7 +6,6 @@ title: Alexander Yuanrui He # the website title (if blank, full name will be use
 first_name: Alexander
 middle_name: Yuanrui
 last_name: He
-contact_note: >
 description: Welcome to my website! I am currently in my last year of my undergraduate studies pursuing two Specialist programs in Economics and Mathematics (Joint-program) and Statistics at the University of Toronto. In Fall 2026, I will be starting the MSc Statistics program at the University of Toronto under the supervision of Professor Ting-Kam Leonard Wong.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
