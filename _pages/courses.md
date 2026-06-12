@@ -13,11 +13,11 @@ The following codes may be helpful: MAT - Mathematics, ECO - Economics, CSC - Co
 ## Masters (Tentative)
 - [MAT1000H](https://sgs.calendar.utoronto.ca/course/mat1000h): **Advanced Real Analysis I**
 - [STA2111H](https://sgs.calendar.utoronto.ca/course/sta2111h): **Graduate Probability I**
-- [STA2311H](https://sgs.calendar.utoronto.ca/course/sta2311h): **Advanced Computational Methods for Statistics I**
-- [STA4000H](https://sgs.calendar.utoronto.ca/course/sta4000h): **Supervised Reading Project** (Advisor: [Ting-Kam Leonard Wong](https://tkl-wong.github.io/))
-- [STA2475H](https://sgs.calendar.utoronto.ca/course/sta2475h): **Survival Analysis I**
+- [STA2080H](https://sgs.calendar.utoronto.ca/course/sta2080h): **Statistical Genetics**
+- [STA4000H](https://sgs.calendar.utoronto.ca/course/sta4000h): **Supervised Master's Reading Project** (Advisor: [Ting-Kam Leonard Wong](https://tkl-wong.github.io/))
 - [MAT1525H](https://sgs.calendar.utoronto.ca/course/mat1525h): **Topics in Inverse Problems and Image Analysis / Optimal Transport for Neural Networks**
-- [STA2312H](https://sgs.calendar.utoronto.ca/course/sta2312h): **Advanced Computational Methods for Statistics II**
+- [STA2211H](https://sgs.calendar.utoronto.ca/course/sta2211h): **Graduate Probability II**
+- [STA2475H](https://sgs.calendar.utoronto.ca/course/sta2475h): **Survival Analysis I**
 - [CSC2516H](https://sgs.calendar.utoronto.ca/course/csc2516h): **Neural Networks and Deep Learning**
 
 ## First Year Undergraduate
