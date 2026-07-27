@@ -15,10 +15,10 @@ The following codes may be helpful: MAT - Mathematics, ECO - Economics, CSC - Co
 - [STA2111H](https://sgs.calendar.utoronto.ca/course/sta2111h): **Graduate Probability I**
 - [STA2080H](https://sgs.calendar.utoronto.ca/course/sta2080h): **Statistical Genetics**
 - [STA4000H](https://sgs.calendar.utoronto.ca/course/sta4000h): **Supervised Master's Reading Project** (Advisor: [Ting-Kam Leonard Wong](https://tkl-wong.github.io/))
-- [MAT1525H](https://sgs.calendar.utoronto.ca/course/mat1525h): **Topics in Inverse Problems and Image Analysis / Optimal Transport for Neural Networks**
+- [STA2475H](https://sgs.calendar.utoronto.ca/course/sta2475h): **Survival Analysis**
 - [STA2211H](https://sgs.calendar.utoronto.ca/course/sta2211h): **Graduate Probability II**
-- [STA2475H](https://sgs.calendar.utoronto.ca/course/sta2475h): **Survival Analysis I**
-- [CSC2516H](https://sgs.calendar.utoronto.ca/course/csc2516h): **Neural Networks and Deep Learning**
+- [STA2104H](https://sgs.calendar.utoronto.ca/course/mat1525h): **Statistical Machine Learning II**
+- [STA2102H](https://sgs.calendar.utoronto.ca/course/sta2102h): **Statistical Computation**
 
 ## First Year Undergraduate
 - [MAT137Y1](https://artsci.calendar.utoronto.ca/course/mat137y1): **Calculus with Proofs**
