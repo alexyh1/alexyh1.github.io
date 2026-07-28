@@ -46,7 +46,6 @@ cv:
         studyType: Master of Science
         start_date: 2026
         end_date: 2027
-        score: ""
         highlights:
           - Advised by Professor <a href = "https://tkl-wong.github.io/">Ting-Kam Leonard Wong</a>
 
@@ -59,7 +58,8 @@ cv:
         end_date: 2026
         highlights:
           - Dual Specialist in <a href = "https://artsci.calendar.utoronto.ca/program/asspe2599">Economics and Mathematics</a> (ASSPE2599) and <a href = "https://artsci.calendar.utoronto.ca/program/asspe2290">Statistical Sciences</a> (ASSPE2290)
-          - Graduating with High Distinction
+          - Graduated with High Distinction
+          - "GPA:" 3.71/4.00
           - 3x Dean's List Scholar
 
     Awards:
