@@ -17,7 +17,7 @@ The following codes may be helpful: MAT - Mathematics, ECO - Economics, CSC - Co
 - [STA4000H](https://sgs.calendar.utoronto.ca/course/sta4000h): **Supervised Master's Reading Project** (Advisor: [Ting-Kam Leonard Wong](https://tkl-wong.github.io/))
 - [STA2475H](https://sgs.calendar.utoronto.ca/course/sta2475h): **Survival Analysis**
 - [STA2211H](https://sgs.calendar.utoronto.ca/course/sta2211h): **Graduate Probability II**
-- [STA2104H](https://sgs.calendar.utoronto.ca/course/sta2104h): **Statistical Machine Learning II**
+- [STA2104H](https://sgs.calendar.utoronto.ca/course/sta2201h): **Applied Statistics II** (Prerequisite Waived)
 - [STA2102H](https://sgs.calendar.utoronto.ca/course/sta2102h): **Statistical Computation**
 
 ## First Year Undergraduate
