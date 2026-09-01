@@ -32,10 +32,10 @@ The following codes may be helpful: MAT - Mathematics, ECO - Economics, CSC - Co
 
 ## Second Year Undergraduate
 - [MAT237Y1](https://artsci.calendar.utoronto.ca/course/mat237y1): **Multivariable Calculus with Proofs / Advanced Calculus**
-- [ECO206Y1](https://artsci.calendar.utoronto.ca/course/eco206y1): Microeconomic Theory
-- [ECO208Y1](https://artsci.calendar.utoronto.ca/course/eco208y1): Macroeconomic Theory
-- [STA257H1](https://artsci.calendar.utoronto.ca/course/sta257h1): **Probability and Statistics I**
-- [STA261H1](https://artsci.calendar.utoronto.ca/course/sta261h1): **Probability and Statistics II**
+- [ECO206Y1](https://artsci.calendar.utoronto.ca/course/eco206y1): **Microeconomic Theory** (Specialist Stream)
+- [ECO208Y1](https://artsci.calendar.utoronto.ca/course/eco208y1): **Macroeconomic Theory** (Specialist Stream)
+- [STA257H1](https://artsci.calendar.utoronto.ca/course/sta257h1): **Probability and Statistics I** (Specialist Stream)
+- [STA261H1](https://artsci.calendar.utoronto.ca/course/sta261h1): **Probability and Statistics II** (Specialist Stream)
 - [MAT244H1](https://artsci.calendar.utoronto.ca/course/mat244h1): **Introduction to Ordinary Differential Equations**
 - [MAT246H1](https://artsci.calendar.utoronto.ca/course/mat246h1): **Concepts in Abstract Mathematics**
 - [ESS299Y1](https://artsci.calendar.utoronto.ca/course/ess299y1): Research Opportunity Program
@@ -48,7 +48,7 @@ The following codes may be helpful: MAT - Mathematics, ECO - Economics, CSC - Co
 - [ECO375H1](https://artsci.calendar.utoronto.ca/course/eco375h1): **Applied Econometrics I**
 - [ECO483H1](https://artsci.calendar.utoronto.ca/course/eco483h1): Health and Economic Inequality
 - [MAT337H1](https://artsci.calendar.utoronto.ca/course/mat337h1): **Introduction to Real Analysis**
-- [STA347H1](https://artsci.calendar.utoronto.ca/course/sta347h1): **Probability I**
+- [STA347H1](https://artsci.calendar.utoronto.ca/course/sta347h1): **Probability Theory**
 - [STA457H1](https://artsci.calendar.utoronto.ca/course/sta457h1): **Time Series Analysis**
 - [APM346H1](https://artsci.calendar.utoronto.ca/course/apm346h1): **Partial Differential Equations**
 - [APM462H1](https://artsci.calendar.utoronto.ca/course/apm462h1): **Nonlinear Optimization**
