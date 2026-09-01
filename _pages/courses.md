@@ -41,7 +41,7 @@ The following codes may be helpful: MAT - Mathematics, ECO - Economics, CSC - Co
 - [ESS299Y1](https://artsci.calendar.utoronto.ca/course/ess299y1): Research Opportunity Program
 
 ## Third Year Undergraduate
-- [ECO325H1](https://artsci.calendar.utoronto.ca/course/eco325h1): Advanced Macroeconomic Theory - Macro
+- [ECO325H1](https://artsci.calendar.utoronto.ca/course/eco325h1): Advanced Macroeconomic Theory
 - [ECO326H1](https://artsci.calendar.utoronto.ca/course/eco326h1): **Advanced Microeconomics - Game Theory**
 - [MAT327H1](https://artsci.calendar.utoronto.ca/course/mat327h1): **Introduction to Topology**
 - [STA302H1](https://artsci.calendar.utoronto.ca/course/sta302h1): **Data Analysis I**
