@@ -11,7 +11,7 @@ Here is a list of courses I've taken by year at UofT.
 The following codes may be helpful: MAT - Mathematics, ECO - Economics, CSC - Computer Science, APM - Applied Mathematics, STA - Statistics, H - Half-Credit Course, Y - Full-Credit Course. Courses with sufficient mathematical / statistical content are in bold. 
 
 ## Masters (Tentative)
-- [MAT1000H](https://sgs.calendar.utoronto.ca/course/mat1000h)<sup>‡</sup>: **Advanced Real Analysis I**
+- [MAT1000H](https://sgs.calendar.utoronto.ca/course/mat1000h)<sup>†</sup>: **Advanced Real Analysis I**
 - [STA2111H](https://sgs.calendar.utoronto.ca/course/sta2111h)<sup>†</sup>: **Graduate Probability I**
 - [STA2080H](https://sgs.calendar.utoronto.ca/course/sta2080h): **Statistical Genetics**
 - [STA4000H](https://sgs.calendar.utoronto.ca/course/sta4000h): **Supervised Master's Reading Project** (Advisor: [Ting-Kam Leonard Wong](https://tkl-wong.github.io/))
@@ -20,9 +20,7 @@ The following codes may be helpful: MAT - Mathematics, ECO - Economics, CSC - Co
 - [STA2475H](https://sgs.calendar.utoronto.ca/course/sta2475h): **Survival Analysis**
 - [STA2102H](https://sgs.calendar.utoronto.ca/course/sta2102h): **Statistical Computation**
 
-<sup>‡</sup> Required for Mathematics PhD qualifying exams.
-
-<sup>†</sup> Required for Statistics PhD qualifying exams. 
+<sup>†</sup> PhD qualifying-level courses. 
 
 ## First Year Undergraduate
 - [MAT137Y1](https://artsci.calendar.utoronto.ca/course/mat137y1): **Calculus with Proofs**
