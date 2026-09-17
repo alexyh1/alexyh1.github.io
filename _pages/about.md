@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my website! I finished my undergraduate studies pursuing two Specialist programs in Economics and Mathematics (Joint-program) and Statistics at the University of Toronto. In Fall 2026, I will be starting the MSc Statistics program at UofT under the supervision of Professor [Ting-Kam Leonard Wong](https://tkl-wong.github.io/). 
+Welcome to my website! I am an MSc Statistics student at the University of Toronto under the supervision of Professor [Ting-Kam Leonard Wong](https://tkl-wong.github.io/). I recently finished my undergraduate studies in two Specialist programs; [Economics and Mathematics](https://artsci.calendar.utoronto.ca/program/asspe2599) (Joint-program) and [Statistical Sciences: Theory and Methods](https://artsci.calendar.utoronto.ca/program/asspe2290) at UofT. 
 
 My current research interest lies in Biostatistics and Optimal Transport with applications to Statistical Genetics, which will be the focus of my research project course as part of my graduate studies. 
 
