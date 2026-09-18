@@ -14,6 +14,19 @@ cv:
 
   sections:
     Experience:
+      - company: University of British Columbia Department of Electrical and Computer Engineering
+        position: Post-Undergraduate Research Assistant
+        location: Vancouver, BC
+        start_date: 2026
+        end_date:
+        highlights:
+          - Developing a modality-robust representative sample-selection algorithm for 3D glioma image segmentation (UPenn BraTS Challenge data) via multimodal VAEs
+          - Greedy selection approach via Bures-Wasserstein distance of Gaussian distributions from MVAE representation for small annotation budgets
+          - Performance metrics via SwinUNETR base model against active learning approaches (Random sampling, Monte Carlo dropout)
+          - Supervised by Professors <a href = "https://people.ece.ubc.ca/~zjanew/?_gl=1*9ng2hr*_gcl_au*NzAxNDUwOTU3LjE3ODk0NTkxMjQuLS4tLjE3ODk0NTkxNDguNDQyNDY3NjQ3LjE3ODk0NTkxNDguMTc4OTQ1OTE1MA..*_ga*NzExNTEwNjYyLjE3ODg1NDQ4NDc.*_ga_4HEE092K89*czE3ODk3MjQ0MjEkbzIkZzAkdDE3ODk3MjQ0MjEkajYwJGwwJGgw">Zhen Jane Wang</a> and <a href = "http://the-xiaohuichen.github.io/">Xiaohui Chen (University of Southern California)</a>.
+        
+        \resumeItem{}{Supervisors: Prof. Zhen Jane Wang, Xiaohui Chen (University of Southern California)}
+          
       - company: UofT Data Sciences Institute + Equity Education Canada
         position: Research Assistant, Summer Undergraduate Data Sciences (SUDS) Program
         location: Toronto, ON
