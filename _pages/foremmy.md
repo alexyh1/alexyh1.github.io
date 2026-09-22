@@ -9,7 +9,7 @@ hidden: true
 
 # WHY BABY LOVES EMMY
 
-I LOVE EMMY
+I LOVE EMMY BECAUSE SHE IS SO SWEET CUTE FUNNY AND ADORABLE
 
 <div class="row justify-content-center">
   <div class="col-md-8 text-center">
