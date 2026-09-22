@@ -16,12 +16,7 @@ Alex (Babyboy)
 
 <div class="row justify-content-center">
   <div class="col-md-8 text-center">
-    {% include figure.html path="assets/img/pibble.jpg" class="img-fluid rounded" %}
-  </div>
-</div>
-
-<div class="row justify-content-center">
-  <div class="col-md-8 text-center">
-    {% include figure.html path="assets/img/seal.gif" class="img-fluid rounded" %}
+    <img src="{{ '/assets/img/pibble.jpg' | relative_url }}" class="img-fluid rounded mb-4" alt="">
+    <img src="{{ '/assets/img/seal.gif' | relative_url }}" class="img-fluid rounded" alt="">
   </div>
 </div>
