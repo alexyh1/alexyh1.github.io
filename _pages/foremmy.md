@@ -9,7 +9,7 @@ hidden: true
 
 ## Why Baby Loves Emmy
 
-I love Emmy because she is so sweet, cute funny and caring! Emily is the best girlfriend ever and my favorite person in the entire universe! 🩷🩷🩷
+I love Emmy because she is so sweet, cute funny and caring! I love how Emmy eats all the cooking I make her and the attention she gives me especially when I am feeling very sad. Emmy has been a huge grounding presence in my life especially when I feel spiritually weak she gives me strength to keep going and trusting in God. Thank you for loving me despite my massive flaws and shortcomings and showing me love when I am the least deserving of it. Emily is the best girlfriend ever and my favorite person in the entire universe! 🩷🩷🩷
 
 Love,
 Alex (Babyboy)
