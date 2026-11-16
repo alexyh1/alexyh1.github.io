@@ -33,7 +33,7 @@ My current research interest lies in Multivariate Statistics and Optimal Transpo
 
 I was fortunate to be a Summer Undergraduate Data Sciences (SUDS) 2025 Scholar at the UofT Data Sciences Institute under the supervision of Professor [Elizabeth Dhuey](https://discover.research.utoronto.ca/17422-elizabeth-ann-dhuey). In Summer 2024 I was a research assistant for Professors Daniel Gregory and Andrei Swidinsky at the UofT Department of Earth Sciences. In Summer 2026 I was co-supervised by Professor [Jane Z Wang](https://people.ece.ubc.ca/~zjanew/) (UBC) and Professor [Xiaohui Chen](https://the-xiaohuichen.github.io/) (USC) as a post-undergraduate researcher working on deep medical imaging. 
 
-Outside of academics, I enjoy playing chess, cooking, photography and hyperpop. I used to enjoy weightlifting, although graduate real analysis has put that on hold which cost me 10 pounds of muscle mass and most of my gains.
+Outside of academics, I enjoy playing chess, cooking, photography and hyperpop. I used to enjoy weightlifting, although graduate real analysis has put that on hold, costing me 10 pounds of muscle mass and all of my gains.
 
 You can reach me at [alexander.he@mail.utoronto.ca](mailto:alexander.he@mail.utoronto.ca).
 
