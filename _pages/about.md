@@ -29,9 +29,11 @@ latest_posts:
 
 Welcome to my website! I am an MSc Statistics student at the University of Toronto under the supervision of Professor [Ting-Kam Leonard Wong](https://tkl-wong.github.io/). I recently finished my undergraduate studies in two Specialist programs; [Economics and Mathematics](https://artsci.calendar.utoronto.ca/program/asspe2599) (Joint-program) and [Statistical Sciences: Theory and Methods](https://artsci.calendar.utoronto.ca/program/asspe2290) at UofT. 
 
-My current research interest lies in Biostatistics and Optimal Transport with applications to Statistical Genetics, which will be the focus of my research project course as part of my graduate studies. 
+My current research interest lies in Multivariate Statistics and Optimal Transport with biological applications, which will be the focus of my research project course as part of my graduate studies. 
 
 I was fortunate to be a Summer Undergraduate Data Sciences (SUDS) 2025 Scholar at the UofT Data Sciences Institute under the supervision of Professor [Elizabeth Dhuey](https://discover.research.utoronto.ca/17422-elizabeth-ann-dhuey). In Summer 2024 I was a research assistant for Professors Daniel Gregory and Andrei Swidinsky at the UofT Department of Earth Sciences. In Summer 2026 I was co-supervised by Professor [Jane Z Wang](https://people.ece.ubc.ca/~zjanew/) (UBC) and Professor [Xiaohui Chen](https://the-xiaohuichen.github.io/) (USC) as a post-undergraduate researcher working on deep medical imaging. 
+
+Outside of academics, I enjoy playing chess, cooking, photography and hyperpop. I used to enjoy weightlifting, although graduate real analysis has put that on hold which cost me 10 pounds of muscle mass and most of my gains.
 
 You can reach me at [alexander.he@mail.utoronto.ca](mailto:alexander.he@mail.utoronto.ca).
 
